@@ -1,2 +1,3 @@
-hello:
+.PHONY: run
+run:
 	echo "Hello, World"
